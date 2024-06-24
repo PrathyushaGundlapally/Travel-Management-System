@@ -1,7 +1,13 @@
 <h1>Travel Management Website</h1>
 <h3>Home</h3>
+
 ![image](![IMG-20240618-WA0010](https://github.com/PrathyushaGundlapally/Travel-Management-System/assets/136232021/3383dc7d-7bf2-40f1-8d3c-9baf1b22afd8)
 )
+
+<h3>Admin Panel</h3>
+
+![IMG-20240618-WA0008](https://github.com/PrathyushaGundlapally/Travel-Management-System/assets/136232021/f8d7249b-33f0-4387-abbf-9f1040f7a453)
+
 
 
 
