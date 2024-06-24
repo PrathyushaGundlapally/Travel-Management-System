@@ -1,10 +1,9 @@
 <h1>Travel Management Website</h1>
 <h3>Home</h3>
-![IMG-20240618-WA0010](https://github.com/PrathyushaGundlapally/Travel-Management-System/assets/136232021/ca1f14cb-e3de-42bc-b848-5daf4da26488)
-![imges](![IMG-20240618-WA0010](https://github.com/PrathyushaGundlapally/Travel-Management-System/assets/136232021/5509580a-185e-4158-91e2-ab7798266ac7)
-)
+![image]("![IMG-20240618-WA0010](https://github.com/PrathyushaGundlapally/Travel-Management-System/assets/136232021/53d14e4a-c8a8-4447-848f-a224dac33b70)
+")
 <h3>Admin Panel</h3>
-![image](![IMG-20240618-WA0008](https://github.com/PrathyushaGundlapally/Travel-Management-System/assets/136232021/a542f6a6-0c25-4edb-b9af-9420d2f1785e)
+![image](![IMG-20240618-WA0008](https://github.com/PrathyushaGundlapally/Travel-Management-System/assets/136232021/a5736763-e987-4958-afce-810af01c262a)
 )
 
 
