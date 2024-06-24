@@ -7,6 +7,8 @@
 
 
 
+
+
 Welcome to the Travel Management Website, a comprehensive platform designed to streamline travel planning and management. This project combines a dynamic frontend built with HTML, CSS, and JavaScript, and a robust backend powered by PHP and MySQL for data storage and retrieval.
 Features:
 
