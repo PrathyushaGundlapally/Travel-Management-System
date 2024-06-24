@@ -2,8 +2,7 @@
 <h3>Home</h3>
 ![IMG-20240618-WA0010](https://github.com/PrathyushaGundlapally/Travel-Management-System/assets/136232021/7cd54fa2-12ca-476c-aea0-d7662f8de1fa)
 
-<h3>Admin Panel</h3>
-![IMG-20240618-WA0008](https://github.com/PrathyushaGundlapally/Travel-Management-System/assets/136232021/cbb8a43c-107d-4c7f-8093-073df2008585)
+
 
 
 
