@@ -1,5 +1,6 @@
-Travel Management Website
-
+![IMG-20240618-WA0010](https://github.com/PrathyushaGundlapally/Travel-Management-System/assets/136232021/ca1f14cb-e3de-42bc-b848-5daf4da26488)Travel Management Website
+![image](![IMG-20240618-WA0010](https://github.com/PrathyushaGundlapally/Travel-Management-System/assets/136232021/5509580a-185e-4158-91e2-ab7798266ac7)
+)
 Welcome to the Travel Management Website, a comprehensive platform designed to streamline travel planning and management. This project combines a dynamic frontend built with HTML, CSS, and JavaScript, and a robust backend powered by PHP and MySQL for data storage and retrieval.
 Features:
 
